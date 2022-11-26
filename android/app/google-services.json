@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "123056853600",
+    "project_id": "recipe-4c6a4",
+    "storage_bucket": "recipe-4c6a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123056853600:android:f90a2705017884f3a56905",
+        "android_client_info": {
+          "package_name": "net.ammarafzal.recipes_cookbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123056853600-61d88dgqu8sr1iia8mu2k0upeh84tql9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkV2vcljNMRLD-PKI6t9AxEFk82B43HKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123056853600-61d88dgqu8sr1iia8mu2k0upeh84tql9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "123056853600-khfo7eurafnbu3d79mgfss9chjpg1cos.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "net.ammarafzal.recipesCookbook"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
